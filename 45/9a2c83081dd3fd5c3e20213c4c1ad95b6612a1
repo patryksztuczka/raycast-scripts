@@ -1,0 +1,19 @@
+README.md
+  s_22b15b0a7a9cd3::t_d01075b0897eb2 1-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "459a2c83081dd3fd5c3e20213c4c1ad95b6612a1",
+  "prompts": {},
+  "sessions": {
+    "s_22b15b0a7a9cd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a86b5863-7eb8-42b1-87f6-5ac483184ba5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Patryk Sztuczka <patryk.sztuczka00@gmail.com>"
+    }
+  }
+}
