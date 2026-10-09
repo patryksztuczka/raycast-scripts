@@ -1,0 +1,19 @@
+toggle-agent-mode.sh
+  s_22b15b0a7a9cd3::t_4abd317af45b24 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d8dc615810531571eb701a6b3878cfc68ec46067",
+  "prompts": {},
+  "sessions": {
+    "s_22b15b0a7a9cd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a86b5863-7eb8-42b1-87f6-5ac483184ba5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Patryk Sztuczka <patryk.sztuczka00@gmail.com>"
+    }
+  }
+}
